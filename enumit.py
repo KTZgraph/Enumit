@@ -1,6 +1,9 @@
 #!/usr/bin/python
 
-'''Simple script to automate various penetration testing enumeration tools'''
+'''A simple, hacky python script to automate initial enumeration of hosts, 
+   for use by OSCP/general infosec students and in CTFs or virtual labs. 
+   Some component scripts may be a bit loud and intrusive for use in actual pentests. 
+   Only use on hosts you own/have permission to test'''
 
 __author__="phi10s"
 
